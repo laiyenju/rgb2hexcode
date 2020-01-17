@@ -1,0 +1,9 @@
+* {
+    font-family: 'Bebas Neue', cursive;
+}
+
+#hexcode {
+    font-size: 3em;
+    padding-left: 1em;
+    text-transform: uppercase;
+}
