@@ -1,6 +1,16 @@
-# RGB to Hex Color Code Tool
+# [rgb2hex: RGB to Hex Color Code Tool](https://laiyenju.github.io/rgb2hexcode/)
 
-This is a webpage helping you to understand how **RGB Color Code** transforms to **Hex Color Code**.
+[This](https://laiyenju.github.io/rgb2hexcode/) is a webpage helping you to understand how **RGB Color Code** transforms to **Hex Color Code**.
+
+> **Referenced**
+> -   [Harvard CS50 Web 的 JavaScript 影片](https://cs50.harvard.edu/x/2020/tracks/web/)
+> -   [動動手來學 Regular Expression 正規表達式](https://5xruby.tw/posts/learn-regular-expression/) by 五倍紅寶石
+> -   [別再只會複製貼上！帶你真正搞懂 Hex Color Codes](https://5xruby.tw/posts/understand-hex-color-codes/) by 五倍紅寶石，提供專案靈感
+> 
+> **Difficulties**
+> 1.  如何抓取到使用者輸入的 RGB 編碼，再存成 Hex 顏色編碼要使用的變數。
+> 2.  如何在使用者輸入編碼的同時，讓背景顏色隨之改變（監聽輸入事件）。
+
 
 ### Webpage :point_down: 
 The interface is inspired by [Panton](https://store.pantone.com/hk/en/?gclid=EAIaIQobChMIs-6406iL5wIVQXRgCh2jMQ8jEAAYASAAEgIO4fD_BwE).
